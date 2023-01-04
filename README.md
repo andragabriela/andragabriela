@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andragabriela
 - 👀 I’m interested in finding a job in it
-- 🌱 I’m currently learning python, assembly, c++, linux
+- 🌱 I’m currently learning python, assembly, c++, c, c#, linux, java, sql
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me via linkedin(Andra-Gabriela Ursa) and email
 
